@@ -1,2 +1,2 @@
 # IESN_Exercises
-All the exercises made an IESN untill December
+All the exercises made at IESN untill December
